@@ -1,5 +1,7 @@
 # FuzzHarbor
 
+[![CI](https://github.com/gravion-ux/fuzzharbor/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/fuzzharbor/actions/workflows/ci.yml)
+
 > A reproducible local fuzzing campaign manager and crash triage toolkit.
 
 **Status:** MVP scaffold / research prototype. Not production-certified.

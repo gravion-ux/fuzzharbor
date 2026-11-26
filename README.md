@@ -1,6 +1,10 @@
+<p align="center"><img src="assets/banner.svg" alt="fuzzharbor banner" width="100%"/></p>
+
 # FuzzHarbor
 
-[![CI](https://github.com/gravion-ux/fuzzharbor/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/fuzzharbor/actions/workflows/ci.yml)
+[![CI](https://github.com/gravion-ux/fuzzharbor/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/fuzzharbor/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+**A reproducible local fuzzing campaign manager and crash triage toolkit.**
 
 > A reproducible local fuzzing campaign manager and crash triage toolkit.
 
